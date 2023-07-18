@@ -1,4 +1,0 @@
-This thesis explores the utilization of generative artificial intelligence (AI) to enhance the quality of conversations in the banking sector. Effective communication with customers is crucial in the banking industry, as it plays a pivotal role in building trust, addressing inquiries, and delivering personalized services. However, achieving coherent and relevant conversations can be challenging due to the complexity of customer interactions and the need for efficient and accurate information exchange.
-
-By addressing the research question of how generative AI can be used to generate coherent and relevant conversations in the banking sector, this study aims to offer valuable insights and practical solutions to improve customer interactions.
-
